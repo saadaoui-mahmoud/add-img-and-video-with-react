@@ -1,0 +1,19 @@
+img{
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+  }
+  
+  .titleRed{
+    color: red;
+  }
+  
+  .tB{
+    color: blue;
+  }
+  
+  .videoPlayer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
